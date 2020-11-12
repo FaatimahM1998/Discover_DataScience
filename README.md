@@ -7,3 +7,7 @@ Dataset = https://datadrivensecurity.info/blog/pages/dds-dataset-collection.html
 Data Exploration
 PowerBI was used to visualise
 ![](https://github.com/FaatimahM1998/Discover_DataScience/blob/main/Map_HoneyPot2.PNG) -->
+
+## Using classification algorithm to analyse student performance data
+
+##
