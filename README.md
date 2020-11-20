@@ -1,8 +1,7 @@
 # Discover_Data_Science
 <!--Faatimah's Data Science Projects -->
 ## Creating a simple machine learning model
-
-
+[Click here to view project](https://github.com/FaatimahM1998/SimpleMachineLearningModel.git) <br>
 Source: https://machinelearningmastery.com/
 
 
