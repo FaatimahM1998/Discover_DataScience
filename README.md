@@ -31,10 +31,10 @@ Dataset = https://datadrivensecurity.info/blog/pages/dds-dataset-collection.html
 The algorithm, K nearest neighbour has been used to create a model for predicting if a student will fail on an exam. <br>
 Preprocessing was completed to explore the data. <br>
 KNeighborsClassifier was used to train the model. <br> 
-Four and six features were used to model <br>
-GridSearchCV was used to configure optimal parameters for the model <br>
-Confusion Matrix was used to evaluate the model <br>
-Box Plot was created to visualise how the model performed <br>
+Four and six features were used to model. <br>
+GridSearchCV was used to configure optimal parameters for the model. <br>
+Confusion Matrix was used to evaluate the model. <br>
+Box Plot was created to visualise how the model performed. <br>
 Skills required: Python, Machine Learning, understanding of algorithms and basic understanding of statistics.
 
 Download the Student Performance dataset from the following link: <br>
