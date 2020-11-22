@@ -6,9 +6,10 @@ Confusion matrix was used to evaluate the model. <br>
 Six different algorithms were used to train the model. <br>
 Box plots were created to visualise which algorithm performed the best. <br>
 Skills required: Python, Machine Learning, understanding of algorithms and basic understanding of statistics. <br>
-[Click here to view project](https://github.com/FaatimahM1998/SimpleMachineLearningModel.git) <br>
-Source: https://machinelearningmastery.com/
 
+Please visit the following link to learn more about Machine Learning:  <br>
+Source: https://machinelearningmastery.com/
+[Click here to view project](https://github.com/FaatimahM1998/SimpleMachineLearningModel.git) <br>
 
 
 ## Threat Hunting with AWS Honeypot Data
