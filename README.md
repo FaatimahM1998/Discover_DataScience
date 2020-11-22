@@ -8,7 +8,7 @@ Box plots were created to visualise which algorithm performed the best. <br>
 Skills required: Python, Machine Learning, understanding of algorithms and basic understanding of statistics. <br>
 
 Please visit the following link to learn more about Machine Learning:  <br>
-Source: https://machinelearningmastery.com/
+Source: https://machinelearningmastery.com/  <br>
 [Click here to view project](https://github.com/FaatimahM1998/SimpleMachineLearningModel.git) <br>
 
 
