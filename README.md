@@ -10,6 +10,8 @@ Source: https://machinelearningmastery.com/
 Download the Marx-geo dataset from the following link: <br>
 Dataset = https://datadrivensecurity.info/blog/pages/dds-dataset-collection.html <br>
 
+[Click here to view project](https://github.com/FaatimahM1998/ThreatHuntingProject.git) <br>
+
 <!-- ![](https://github.com/FaatimahM1998/Discover_DataScience/blob/main/ThreatHuntingProject.PNG) -->
 
 ## Using classification algorithm to analyse student performance data
@@ -17,5 +19,7 @@ Dataset = https://datadrivensecurity.info/blog/pages/dds-dataset-collection.html
 Download the Student Performance dataset from the following link: <br>
 Dataset = https://archive.ics.uci.edu/ml/datasets/Student+Performance <br>
 The algorithm, K nearest neighbour has been used to create a model for predicting if a student will fail on an exam. <br>
+
+[Click here to view project](https://github.com/FaatimahM1998/PredictingFailure.git) <br>
 
 <!--![](https://github.com/FaatimahM1998/Discover_DataScience/blob/main/KNN.PNG) -->
