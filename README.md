@@ -24,7 +24,7 @@ Download the Marx-geo dataset from the following link: <br>
 Dataset = https://datadrivensecurity.info/blog/pages/dds-dataset-collection.html <br>
 [Click here to view project](https://github.com/FaatimahM1998/ThreatHuntingProject.git) <br>
 
-<!-- ![](https://github.com/FaatimahM1998/Discover_DataScience/blob/main/ThreatHuntingProject.PNG) -->
+![](https://github.com/FaatimahM1998/Discover_DataScience/blob/main/ThreatHuntingProject.PNG)
 
 ## Using classification algorithm to analyse student performance data
 
@@ -41,4 +41,4 @@ Download the Student Performance dataset from the following link: <br>
 Dataset = https://archive.ics.uci.edu/ml/datasets/Student+Performance <br>
 [Click here to view project](https://github.com/FaatimahM1998/PredictingFailure.git) <br>
 
-<!--![](https://github.com/FaatimahM1998/Discover_DataScience/blob/main/KNN.PNG) -->
+![](https://github.com/FaatimahM1998/Discover_DataScience/blob/main/KNN.PNG)
