@@ -13,7 +13,11 @@ Source: https://machinelearningmastery.com/
 
 ## Threat Hunting with AWS Honeypot Data
 Download the Marx-geo dataset from the following link: <br>
-Threat Hunting is pr
+Threat Hunting is a proactive and iterative way of finding threats in a dataset or across the network. <br> 
+The purpose of threat hunting is to find threats quicker and improve the organisations security system. <br>
+R and python were used to create visuals to find outliers in the dataset. <br>
+Malicious activities were investigated using tools like IBM X-Force Exchange. <br>
+Skills required: Security Intelligence, statistical analysis, visualisation, Python and R studio. <br>
 
 Dataset = https://datadrivensecurity.info/blog/pages/dds-dataset-collection.html <br>
 
