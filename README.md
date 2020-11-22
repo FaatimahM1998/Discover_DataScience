@@ -4,7 +4,7 @@
 The model was created to predict the classification of flower using information like Sepal Length, Sepal Width, Petal Length and Petal Width. <br>
 Confusion matrix was used to evaluate the model. <br>
 Six different algorithms were used to train the model. <br>
-Box plot was created to visualise which algorithm performed the best. <br>
+Box plots were created to visualise which algorithm performed the best. <br>
 Skills required: Python, Machine Learning, understanding of algorithms and basic understanding of statistics. <br>
 [Click here to view project](https://github.com/FaatimahM1998/SimpleMachineLearningModel.git) <br>
 Source: https://machinelearningmastery.com/
